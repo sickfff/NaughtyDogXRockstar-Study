@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/zQJmDQh.png" alt="Gaming" width="400"/>
+  <img src="https://pbs.twimg.com/media/F1MPPRMXsAAxvPB.jpg:large" alt="Gaming" width="400"/>
 </p>
 
 ---
