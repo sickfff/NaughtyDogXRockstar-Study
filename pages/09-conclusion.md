@@ -6,4 +6,5 @@ Understanding their differences enriches our appreciation for video games as an 
 
 Thank you for reading this study! 🎉
 
-[Gabriel Roriz Silva](github.com/groriz11)
+
+[𐌔𐌉𐌂𐌊.dll](github.com/sickfff)
