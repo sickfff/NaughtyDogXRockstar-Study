@@ -74,11 +74,11 @@ Contributions, suggestions, and corrections are welcome! Please open issues or p
 
 ## 📫 Connect With Me
 
-- GitHub: [@groriz11](https://github.com/groriz11)  
+- GitHub: [@sickfff](https://github.com/sickfff)  
 - Portfolio: (coming soon)    
 
 ---
 
 <p align="center">
-  <b>Built with ☕, 🎮, and ❤️ by Gabriel Roriz Silva</b>
+  <b>Built with ☕, 🎮, and ❤️ by 𐌔𐌉𐌂𐌊.dll</b>
 </p>
